@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "plivo.auth.token",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.auth.token'"
+  },
+  {
+    "name": "plivo.auth.id",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.auth.id'"
+  },
+  {
+    "name": "plivo.auth.sender.id",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.auth.sender.id'"
+  },
+  {
+    "name": "plivo.auth.sender.id",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.auth.sender.id'"
+  },
+  {
+    "name": "plivo.auth.sender.id",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.auth.sender.id'"
+  },
+  {
+    "name": "security.require-ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'security.require-ssl'"
+  },
+  {
+    "name": "plivo.number.unrent.url",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.number.unrent.url'"
+  },
+  {
+    "name": "plivo.number.buy.url",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.number.buy.url'"
+  },
+  {
+    "name": "plivo.number.cart.url",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.number.cart.url'"
+  },
+  {
+    "name": "plivo.number.validation",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.number.validation'"
+  },
+  {
+    "name": "plivo.message.status.check.url",
+    "type": "java.lang.String",
+    "description": "A description for 'plivo.message.status.check.url'"
+  }
+]}

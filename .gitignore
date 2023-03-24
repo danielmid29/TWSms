@@ -4,6 +4,13 @@
 # Log file
 *.log
 
+.classpath
+.factorypath
+.mvn/
+.project
+.settings/
+HELP.md
+
 # BlueJ files
 *.ctxt
 
